@@ -1,0 +1,19 @@
+{
+    "policies": [{
+            "policyId": "1",
+            "policyName": "SG Chubb Travel Insurance",
+            "policyNumber": "CTASGAA0000553",
+            "expiryDate": "23/01/2023",
+            "policyStatus": "ACTIVE",
+            "policyType": "TRAVEL"
+        },
+        {
+            "policyId": "2",
+            "policyName": "Essential Home",
+            "policyNumber": "SMKSG0001728797",
+            "expiryDate": "04/03/2023",
+            "policyStatus": "ACTIVE",
+            "policyType": "ACCIDENT"
+        }
+    ]
+}
